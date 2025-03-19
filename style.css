@@ -1,0 +1,32 @@
+body {
+    background-image: url("camo2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.cim {
+    text-align: center;
+    color: #53583a;
+    background-color: #171811;
+    padding: 20px;
+}
+
+button {
+    height: 25px;
+    width: 5cm;
+    background-color: #53583a;
+    padding-left: 10px;
+}
+input {
+    width: 4cm;
+    height: 0.5cm;
+    
+}
+.container {
+    display: flex;
+    justify-content: center; /* Vízszintes középre igazítás */
+    align-items: center; /* Függőleges középre igazítás */
+    height: 75vh; /* Teljes képernyőmagasság */
+}
